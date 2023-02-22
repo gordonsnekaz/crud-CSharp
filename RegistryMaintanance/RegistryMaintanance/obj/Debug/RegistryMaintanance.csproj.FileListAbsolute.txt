@@ -1,0 +1,68 @@
+C:\Users\student.BLK19MUCHABANGU.000\Desktop\Gordon\Tino\RegistryMaintanance\RegistryMaintanance\bin\Debug\RegistryMaintanance.exe.config
+C:\Users\student.BLK19MUCHABANGU.000\Desktop\Gordon\Tino\RegistryMaintanance\RegistryMaintanance\bin\Debug\RegistryMaintanance.exe
+C:\Users\student.BLK19MUCHABANGU.000\Desktop\Gordon\Tino\RegistryMaintanance\RegistryMaintanance\bin\Debug\RegistryMaintanance.pdb
+C:\Users\student.BLK19MUCHABANGU.000\Desktop\Gordon\Tino\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.Login.resources
+C:\Users\student.BLK19MUCHABANGU.000\Desktop\Gordon\Tino\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.Properties.Resources.resources
+C:\Users\student.BLK19MUCHABANGU.000\Desktop\Gordon\Tino\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.csproj.GenerateResource.Cache
+C:\Users\student.BLK19MUCHABANGU.000\Desktop\Gordon\Tino\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.exe
+C:\Users\student.BLK19MUCHABANGU.000\Desktop\Gordon\Tino\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.pdb
+C:\Users\student.BLK19MUCHABANGU.000\Desktop\Gordon\Tino\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.Home.resources
+C:\Users\student.BLK19MUCHABANGU.000\Desktop\Gordon\Tino\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.AddCuctomer.resources
+C:\Users\student.BLK19MUCHABANGU.000\Desktop\Gordon\Tino\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.DeleteCustomer.resources
+C:\Users\student.BLK19MUCHABANGU.000\Desktop\Gordon\Tino\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.SearchCustomer.resources
+C:\Users\student.BLK19MUCHABANGU.000\Desktop\Gordon\Tino\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.UpdateCustomer.resources
+C:\Users\student.BLK19MUCHABANGU.000\Desktop\Gordon\Tino\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.ViewCustomers.resources
+C:\Users\student.BLK19MUCHABANGU.000\Desktop\Gordon\Tino\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.LandingPage.resources
+C:\Users\student.BLK19MUCHABANGU.000\Desktop\Gordon\Tino\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.csprojResolveAssemblyReference.cache
+C:\Users\student.BLK19MUCHABANGU.000\Desktop\Gordon\Tino\RegistryMaintanance\RegistryMaintanance\bin\Debug\Registry.accdb
+C:\Users\ADMIN\Desktop\Tino\RegistryMaintanance\RegistryMaintanance\bin\Debug\Registry.accdb
+C:\Users\ADMIN\Desktop\Tino\RegistryMaintanance\RegistryMaintanance\bin\Debug\RegistryMaintanance.exe.config
+C:\Users\ADMIN\Desktop\Tino\RegistryMaintanance\RegistryMaintanance\bin\Debug\RegistryMaintanance.exe
+C:\Users\ADMIN\Desktop\Tino\RegistryMaintanance\RegistryMaintanance\bin\Debug\RegistryMaintanance.pdb
+C:\Users\ADMIN\Desktop\Tino\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Tino\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.AddCuctomer.resources
+C:\Users\ADMIN\Desktop\Tino\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.DeleteCustomer.resources
+C:\Users\ADMIN\Desktop\Tino\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.Login.resources
+C:\Users\ADMIN\Desktop\Tino\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.Home.resources
+C:\Users\ADMIN\Desktop\Tino\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.LandingPage.resources
+C:\Users\ADMIN\Desktop\Tino\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Tino\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.SearchCustomer.resources
+C:\Users\ADMIN\Desktop\Tino\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.UpdateCustomer.resources
+C:\Users\ADMIN\Desktop\Tino\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.ViewCustomers.resources
+C:\Users\ADMIN\Desktop\Tino\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\Tino\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.exe
+C:\Users\ADMIN\Desktop\Tino\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.pdb
+C:\Users\ADMIN\Desktop\Leeroy\RegistryMaintanance\RegistryMaintanance\bin\Debug\RegistryMaintanance.exe.config
+C:\Users\ADMIN\Desktop\Leeroy\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.exe
+C:\Users\ADMIN\Desktop\Leeroy\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.pdb
+C:\Users\ADMIN\Desktop\Leeroy\RegistryMaintanance\RegistryMaintanance\bin\Debug\Registry.accdb
+C:\Users\ADMIN\Desktop\Leeroy\RegistryMaintanance\RegistryMaintanance\bin\Debug\RegistryMaintanance.exe
+C:\Users\ADMIN\Desktop\Leeroy\RegistryMaintanance\RegistryMaintanance\bin\Debug\RegistryMaintanance.pdb
+C:\Users\ADMIN\Desktop\Leeroy\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Leeroy\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.AddCuctomer.resources
+C:\Users\ADMIN\Desktop\Leeroy\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.DeleteCustomer.resources
+C:\Users\ADMIN\Desktop\Leeroy\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.Login.resources
+C:\Users\ADMIN\Desktop\Leeroy\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.Home.resources
+C:\Users\ADMIN\Desktop\Leeroy\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.LandingPage.resources
+C:\Users\ADMIN\Desktop\Leeroy\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Leeroy\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.SearchCustomer.resources
+C:\Users\ADMIN\Desktop\Leeroy\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.UpdateCustomer.resources
+C:\Users\ADMIN\Desktop\Leeroy\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.ViewCustomers.resources
+C:\Users\ADMIN\Desktop\Leeroy\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.csproj.GenerateResource.Cache
+C:\Users\gordo\Desktop\Select, update, delete and insert C#\Select, update, delete and insert C#\RegistryMaintanance\RegistryMaintanance\bin\Debug\RegistryMaintanance.exe.config
+C:\Users\gordo\Desktop\Select, update, delete and insert C#\Select, update, delete and insert C#\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.exe
+C:\Users\gordo\Desktop\Select, update, delete and insert C#\Select, update, delete and insert C#\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.pdb
+C:\Users\gordo\Desktop\Select, update, delete and insert C#\Select, update, delete and insert C#\RegistryMaintanance\RegistryMaintanance\bin\Debug\Registry.accdb
+C:\Users\gordo\Desktop\Select, update, delete and insert C#\Select, update, delete and insert C#\RegistryMaintanance\RegistryMaintanance\bin\Debug\RegistryMaintanance.exe
+C:\Users\gordo\Desktop\Select, update, delete and insert C#\Select, update, delete and insert C#\RegistryMaintanance\RegistryMaintanance\bin\Debug\RegistryMaintanance.pdb
+C:\Users\gordo\Desktop\Select, update, delete and insert C#\Select, update, delete and insert C#\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.csprojResolveAssemblyReference.cache
+C:\Users\gordo\Desktop\Select, update, delete and insert C#\Select, update, delete and insert C#\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.AddCuctomer.resources
+C:\Users\gordo\Desktop\Select, update, delete and insert C#\Select, update, delete and insert C#\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.DeleteCustomer.resources
+C:\Users\gordo\Desktop\Select, update, delete and insert C#\Select, update, delete and insert C#\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.Login.resources
+C:\Users\gordo\Desktop\Select, update, delete and insert C#\Select, update, delete and insert C#\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.Home.resources
+C:\Users\gordo\Desktop\Select, update, delete and insert C#\Select, update, delete and insert C#\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.LandingPage.resources
+C:\Users\gordo\Desktop\Select, update, delete and insert C#\Select, update, delete and insert C#\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.Properties.Resources.resources
+C:\Users\gordo\Desktop\Select, update, delete and insert C#\Select, update, delete and insert C#\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.SearchCustomer.resources
+C:\Users\gordo\Desktop\Select, update, delete and insert C#\Select, update, delete and insert C#\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.UpdateCustomer.resources
+C:\Users\gordo\Desktop\Select, update, delete and insert C#\Select, update, delete and insert C#\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.ViewCustomers.resources
+C:\Users\gordo\Desktop\Select, update, delete and insert C#\Select, update, delete and insert C#\RegistryMaintanance\RegistryMaintanance\obj\Debug\RegistryMaintanance.csproj.GenerateResource.Cache
